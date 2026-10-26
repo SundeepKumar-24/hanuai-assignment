@@ -1,0 +1,15 @@
+pandas>=2.0
+numpy
+requests
+beautifulsoup4
+selenium>=4.15
+webdriver-manager
+vaderSentiment
+matplotlib
+seaborn
+openpyxl
+ipykernel
+jupyter
+# optional, only if USE_TRANSFORMER = True in the notebook:
+# transformers
+# torch
